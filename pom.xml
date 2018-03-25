@@ -75,6 +75,7 @@
       <version>5.2.12.Final</version>
     </dependency>
 
+    <!-- Web Services Dependencies -->
     <!-- https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client -->
     <dependency>
       <groupId>org.glassfish.jersey.core</groupId>
